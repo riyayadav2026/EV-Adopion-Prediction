@@ -1,7 +1,10 @@
 # EV Range Anxiety Prediction
 
 This project analyzes a dataset related to Electric Vehicle (EV) adoption, behavior, and range anxiety. Range anxiety is a common concern among potential EV buyers and refers to the fear that an EV may not have enough range to complete a trip, causing the driver to become stranded.
-
+---
+<img src="image1.png" alt="Project Screenshot" width="800">
+<img src="image2.png" alt="Project Screenshot" width="800">
+---
 The primary goal of this project is to build a predictive model that can identify individuals who are likely to experience high range anxiety based on demographic, economic, and behavioral factors.
 
 ## Objective
